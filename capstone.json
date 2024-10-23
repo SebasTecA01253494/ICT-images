@@ -1,29 +1,4 @@
 {
-    "menu": 
-      {
-        "name": "Greek Salad",
-        "price": 12.99,
-        "image": "greekSalad.jpg",
-      },
-      {
-        "name": "Bruschetta",
-        "price": 7.99,
-        "image": "bruschetta.jpg",
-      },
-      {
-        "name": "Grilled Fish",
-        "price": 20.00,
-        "image": "grilledFish.jpg",
-      },
-      {
-        "name": "Pasta",
-        "price": 6.99,
-        "image": "pasta.jpg",  
-      },
-      {
-        "name": "Lemon Dessert",
-        "price": 4.99,
-        "image": "lemonDessert.jpg",  
-      }
-    
+    "menu":[
+    ]
   }
